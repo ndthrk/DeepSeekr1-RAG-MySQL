@@ -1,0 +1,13 @@
+pandas
+numpy
+langchain
+langchain_openai
+langchain-ollama
+langchain_community
+ollama
+docx2txt
+pypdf
+mysql-connector-python
+sqlalchemy
+python-dotenv
+scikit-learn
